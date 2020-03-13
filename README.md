@@ -1,5 +1,3 @@
-# COVID-19 in Germany
+# Plotting COVID19 cases
 
-Retrieving data on the COVID-19 pandemic and plotting it here in real-time:
-
-- https://nilsleiffischer.github.io/covid19
+Data from [https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv](John Hopkins University)
